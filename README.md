@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Most Used Languages](https://github-readme-stats-one-bice.vercel.app/api?username=defnngj&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&line_height=29&theme=bright&layout=compact)
+
 <!--
 **defnngj/defnngj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
